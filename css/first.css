@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: forestgreen;
+	text-align: center;
+}
+header h1{
+color: darkcyan;
+}
+header img{
+	border-radius: 200px;
+}
