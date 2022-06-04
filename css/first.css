@@ -7,8 +7,10 @@ header{
 	text-align: center;
 }
 header h1{
-color: darkcyan;
+color: coral;
 }
 header img{
-	border-radius: 200px;
+	border-radius: 170px;
+	width: 300px;
+	border: 15px solid darkcyan;
 }
