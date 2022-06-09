@@ -1,16 +1,66 @@
 body{
+
 	margin: 0;
+	font-family: helvetica;
+    font-size: 20px;
 }
 
 header{
-	background-color: forestgreen;
+
+	background: linear-gradient(to bottom right, #333300 0%, #336600 100%);
 	text-align: center;
+	padding-top: 33px;
+	padding-bottom: 50px;
+
+}
+
+h1, h2{
+
+	font-family: 'Satisfy', cursive;
+
 }
 header h1{
-color: coral;
+color: #001600;
+font-family: 'Satisfy', cursive;
+font-size: 50px;
+
 }
+
 header img{
+
 	border-radius: 170px;
 	width: 300px;
-	border: 15px solid darkcyan;
+	border: 17px solid #001600;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+}
+
+a{
+	color: forestgreen;
+}
+a:hover{
+	color: black;
+	opacity: .5;
+	background-color:  forestgreen;
+
+}
+footer{
+	background: linear-gradient(to bottom right, #333300 0%, #336600 100%);
+	text-align: center;
+	color: #001600;
+	padding: 50px;
+}
+footer p{
+	margin: 0;
 }
